@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EllaGospel/Ije-transport-site.git/static/css/main.227f7621.css",
+    "main.js": "/EllaGospel/Ije-transport-site.git/static/js/main.3effff79.js",
+    "static/media/cartoon.jpg": "/EllaGospel/Ije-transport-site.git/static/media/cartoon.787306927d193b1801bc.jpg",
+    "static/media/bus.jpg": "/EllaGospel/Ije-transport-site.git/static/media/bus.8a63b80e28b4ff97f818.jpg",
+    "index.html": "/EllaGospel/Ije-transport-site.git/index.html",
+    "main.227f7621.css.map": "/EllaGospel/Ije-transport-site.git/static/css/main.227f7621.css.map",
+    "main.3effff79.js.map": "/EllaGospel/Ije-transport-site.git/static/js/main.3effff79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.227f7621.css",
+    "static/js/main.3effff79.js"
+  ]
+}
